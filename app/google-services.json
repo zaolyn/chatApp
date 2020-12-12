@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275837609582",
+    "firebase_url": "https://chatapp-5ead4.firebaseio.com",
+    "project_id": "chatapp-5ead4",
+    "storage_bucket": "chatapp-5ead4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275837609582:android:2bef2049074f45a0f6687f",
+        "android_client_info": {
+          "package_name": "idn.faza.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275837609582-19fm70q0hj1pimpt27fm12rbuuo0uogl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.faza.chatapp",
+            "certificate_hash": "2f7a88b4a89baad95c9a38a5267053286a40d717"
+          }
+        },
+        {
+          "client_id": "275837609582-h4bo1bqeuhjldqi6fjjqss88squ51vsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBboDxVOIM__if9lmNge8qFjjXzZOWTAFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275837609582-h4bo1bqeuhjldqi6fjjqss88squ51vsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
